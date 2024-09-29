@@ -1,0 +1,2 @@
+bttrads.com 0.0.0.0
+theadex.com 0.0.0.0
