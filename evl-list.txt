@@ -2,3 +2,4 @@
 0.0.0.0 theadex.com
 0.0.0.0 blendee.com
 0.0.0.0 gamned.com
+0.0.0.0 d3sv.net
