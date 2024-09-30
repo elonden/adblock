@@ -1,6 +1,10 @@
+# Ad domains I came accross.
 0.0.0.0 bttrads.com
 0.0.0.0 theadex.com
 0.0.0.0 blendee.com
 0.0.0.0 gamned.com
 0.0.0.0 d3sv.net
 0.0.0.0 yoc.neodatagroup.com
+
+# OpenDNS test domain.
+0.0.0.0 internetbadguys.com
