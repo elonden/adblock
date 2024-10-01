@@ -8,3 +8,6 @@
 
 # OpenDNS test domain.
 0.0.0.0 internetbadguys.com
+
+
+0.0.0.0 trace.popin.cc
