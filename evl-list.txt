@@ -1,13 +1,13 @@
 # Ad domains I came accross.
-0.0.0.0 bttrads.com
-0.0.0.0 theadex.com
-0.0.0.0 blendee.com
-0.0.0.0 gamned.com
-0.0.0.0 d3sv.net
-0.0.0.0 yoc.neodatagroup.com
+127.0.0.1 bttrads.com
+127.0.0.1 theadex.com
+127.0.0.1 blendee.com
+127.0.0.1 gamned.com
+127.0.0.1 d3sv.net
+127.0.0.1 yoc.neodatagroup.com
 
 # OpenDNS test domain.
-0.0.0.0 internetbadguys.com
+127.0.0.1 internetbadguys.com
 
 
-0.0.0.0 trace.popin.cc
+127.0.0.1 trace.popin.cc
