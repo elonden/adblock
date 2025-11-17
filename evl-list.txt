@@ -11,3 +11,8 @@
 
 
 127.0.0.1 trace.popin.cc
+
+
+# Sites that need to be blocked no matter what
+0.0.0.0  opoxv.com
+0.0.0.0 lederhoise.info

@@ -1,0 +1,178 @@
+[
+    {
+    "Feed": {
+    "name": "Block (Context)",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/91d1e3f8-0307-4b7f-a655-09719c42fb31",
+    "enabled": true,
+    "source_format": "misp",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Monitor (Context)",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/4d04c346-8b89-4512-97db-9c167e0c1eaa",
+    "enabled": true,
+    "source_format": "misp",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "International Partner",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/0e41cdb5-b8e3-4216-a962-ff042b22f448",
+    "enabled": true,
+    "source_format": "misp",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Situational Awareness",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/1b1ccee4-514f-4179-bf91-35b61cb34996",
+    "enabled": true,
+    "source_format": "misp",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Advisory",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/1b681e57-2f97-4ee7-982f-ad5d0de1fb40",
+    "enabled": true,
+    "source_format": "misp",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Detection Rules",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/d375ff22-3a50-41ec-830c-b30529cbd287",
+    "enabled": true,
+    "source_format": "misp",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Early Warning",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/61684525-106b-4334-9294-66a39fde5577",
+    "enabled": true,
+    "source_format": "misp",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Domestic Partner",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/1199fc72-0177-49fe-817b-24b500c40588",
+    "enabled": true,
+    "source_format": "misp",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Block (IDS) URLs",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/3a2037b7-843a-42f9-87eb-1985d8ceb59f/url.txt",
+    "enabled": true,
+    "source_format": "freetext",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Block (IDS) Domains",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/3a2037b7-843a-42f9-87eb-1985d8ceb59f/domain.txt",
+    "enabled": true,
+    "source_format": "freetext",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Block (IDS) Hashes",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/3a2037b7-843a-42f9-87eb-1985d8ceb59f/hash.txt",
+    "enabled": true,
+    "source_format": "freetext",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Block (IDS) IPs",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/3a2037b7-843a-42f9-87eb-1985d8ceb59f/ip.txt",
+    "enabled": true,
+    "source_format": "freetext",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Monitor (IDS) URLs",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/5ebe62e1-5cd7-4304-9fbe-7c104afc1831/url.txt",
+    "enabled": true,
+    "source_format": "freetext",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Monitor (IDS) Domains",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/5ebe62e1-5cd7-4304-9fbe-7c104afc1831/domain.txt",
+    "enabled": true,
+    "source_format": "freetext",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Monitor (IDS) Hashes",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/5ebe62e1-5cd7-4304-9fbe-7c104afc1831/hash.txt",
+    "enabled": true,
+    "source_format": "freetext",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    },
+    {
+    "Feed": {
+    "name": "Monitor (IDS) IPs",
+    "provider": "CTIS",
+    "url": “https://ctis.cyber.gov.au/feed/5ebe62e1-5cd7-4304-9fbe-7c104afc1831/ip.txt",
+    "enabled": true,
+    "source_format": "freetext",
+    "input_source": "network",
+    "headers": "Authorization:29VGSttUOVgdUt1t8zmV6SdXjzqmS3D7Brrap6Z2"
+    }
+    }
+    ]
