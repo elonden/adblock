@@ -16,3 +16,15 @@
 # Sites that need to be blocked no matter what
 0.0.0.0 opoxv.com
 0.0.0.0 lederhoise.info
+0.0.0.0 abwxjp5.me
+0.0.0.0 brackusi0n.live
+0.0.0.0 dog3rj.tech
+0.0.0.0 emezonhe.me
+0.0.0.0 gouvn.me
+0.0.0.0 msonline.help
+0.0.0.0 pickupweb.me
+0.0.0.0 pr0fu5a.me
+0.0.0.0 q74vn.live
+0.0.0.0 servgate.me
+0.0.0.0 zamstats.me
+0.0.0.0 zrheblirsy.me
