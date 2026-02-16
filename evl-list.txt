@@ -28,3 +28,20 @@
 0.0.0.0 servgate.me
 0.0.0.0 zamstats.me
 0.0.0.0 zrheblirsy.me
+
+
+# 7-ZIP vulnerability as per Malwarebytes
+soc.hero-sms.co
+neo.herosms.co
+flux.smshero.co
+nova.smshero.ai
+apex.herosms.ai
+spark.herosms.io
+zest.hero-sms.ai
+prime.herosms.vip
+vivid.smshero.vip
+mint.smshero.com
+pulse.herosms.cc
+glide.smshero.cc
+svc.ha-teams.office.com
+iplogger.org
