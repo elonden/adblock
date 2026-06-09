@@ -9,7 +9,10 @@
 # OpenDNS test domain.
 127.0.0.1 internetbadguys.com
 #
+#
 # Tracking domains
+#
+# https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/
 0.0.0.0 bright-sdk.com
 0.0.0.0 brdtnet.com
 0.0.0.0 proxyjs.brdtnet.com
