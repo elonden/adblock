@@ -9,6 +9,15 @@
 # OpenDNS test domain.
 127.0.0.1 internetbadguys.com
 #
+# Tracking domains
+0.0.0.0 bright-sdk.com
+0.0.0.0 brdtnet.com
+0.0.0.0 proxyjs.brdtnet.com
+0.0.0.0 proxyjs.luminatinet.com
+0.0.0.0 proxyjs.bright-sdk.com
+0.0.0.0 clientsdk.bright-sdk.com
+0.0.0.0 clientsdk.brdtnet.com
+
 #
 127.0.0.1 trace.popin.cc
 #
